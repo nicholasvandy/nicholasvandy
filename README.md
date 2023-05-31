@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)](https://rishavchanda.io)
+[![MasterHead](https://tenor.com/ecJtMacdWTf.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm dapanji.eth</h1>
 <h3 align="center">A startup dude living in the Bay Area</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
