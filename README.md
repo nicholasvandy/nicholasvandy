@@ -13,7 +13,7 @@
 
 - 📫 contact me at **digitalnomadsnick@gmail.com**
 
-- ⚡ My Hobby: **League of Legion, Basketball, Lifting**
+- ⚡ My Hobby: **League of Legend, Basketball, Lifting**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
